@@ -6,8 +6,8 @@
  :site-url         "http://www.tourbillon.io/"
  :post-root        "posts"
  :tag-root         "tags"
- :page-root        "pages"
- :blog-prefix      "/"
+ :page-root        ""
+ :blog-prefix      ""
  :rss-name         "feed.xml"
  :rss-filters      ["cryogen"]
  :recent-posts     3

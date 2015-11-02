@@ -8,6 +8,7 @@ body,
 html {
     width: 100%;
     height: 100%;
+    font-size: 14px;
 }
 
 body,
@@ -18,7 +19,7 @@ h4,
 h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .topnav {
@@ -133,6 +134,12 @@ h6 {
 .banner-social-buttons {
     float: right;
     margin-top: 0;
+}
+
+#mc_embed_signup {
+    background:#fff;
+    clear:left;
+    width:400px;
 }
 
 @media(max-width:1199px) {
